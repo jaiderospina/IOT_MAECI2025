@@ -1,1 +1,10 @@
 # IOT_MAECI2025
+
+
+## Ejercicio Ingeniería Reversa.
+Grupos de 2 integrantes. 
+
+Medainte el diseño por ingeniería reversa, documente, contextualice y proponga mejoras al circuito implementado en:
+-https://www.tinkercad.com/things/llxvLCzSld1?sharecode=TYMJLJEVoghKrF1JCmxK8VaT1nA_x5cVerGA9XHsunM
+
+Realizar una entrada (carpeta)  en el reposiorio.
