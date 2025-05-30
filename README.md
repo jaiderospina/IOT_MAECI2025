@@ -18,7 +18,7 @@ Realizar de manera individual el ejercicio 0 de **"Taller-IoT"**  del aula de cl
 
 **Título: Diseño de Algoritmos y Diagramas de Flujo para Soluciones IoT en Ciberseguridad con Arduino**
 
-En grupos de trabajo realizar el ejercicio y subirlo a este repositorio en la carpeta **ENTREGAS_CLASE** creando una carpeta cpor cada grupo y publicar en el README. 
+En grupos de trabajo realizar el ejercicio y subirlo a este repositorio en la carpeta **ENTREGA_CLASE** creando una carpeta por cada grupo y publicar en el README. 
 
 **Objetivo:** Formular algoritmos estructurados y diagramas de flujo que representen el funcionamiento lógico de dos soluciones IoT orientadas a la detección y mitigación de riesgos en ciberseguridad.
 
