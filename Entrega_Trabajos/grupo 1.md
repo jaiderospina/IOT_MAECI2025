@@ -1,6 +1,15 @@
 # Soluciones IoT para Detección y Mitigación de Riesgos en Ciberseguridad
 
+## integrantes 
+
+1.	Andrés Camilo Molano Mendieta
+2.	Oscar Vega
+3.	Enrique Ramírez
+4.	Raúl Gray
+
+
 ## Solución 1: Sistema de Detección de Intrusos con Autenticación Segura
+
 
 ### Descripción funcional
 
