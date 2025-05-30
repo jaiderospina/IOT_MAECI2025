@@ -14,6 +14,12 @@
 5. El sistema envía una alerta cifrada a un servidor seguro mediante Wi-Fi.  
 6. Registra eventos (fecha, hora, tipo de evento) en memoria con cifrado básico para mantener la confidencialidad.
 
+
+# Diagrama de flujo
+
+![Diagrama de flujo ](iot.png)
+
+
 ### Algoritmo en pseudocódigo estructurado
 
 ```plaintext
@@ -38,5 +44,6 @@ Inicio
     Fin Si
     Esperar breve periodo antes de siguiente lectura
   Fin Mientras
+
 Fin
 
