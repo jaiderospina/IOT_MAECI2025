@@ -92,3 +92,88 @@ Algoritmo Deteccion_Intrusos:
   Fin Repetir  
 Fin Algoritmo  
 ```  
+
+
+### Actividad: Creación de Algoritmos y Diagramas de Flujo para Soluciones IoT con Arduino en Ciberseguridad  
+**Objetivo:** Diseñar dos sistemas IoT con Arduino que incorporen principios de ciberseguridad, incluyendo pseudocódigo y diagramas de flujo.  
+
+---
+
+---
+
+#### **Solución 2: Firewall Físico para Dispositivos IoT**  
+**Descripción:**  
+- **Hardware:** Arduino MKR1000, lector RFID (MFRC522), relay, LCD 16x2.  
+- **Funcionalidad:**  
+  1. Bloquea/desbloquea dispositivos IoT mediante un relay.  
+  2. Autentica usuarios con tarjeta RFID.  
+  3. Registra accesos en una base de datos con hash SHA-256.  
+  4. Muestra estado en LCD.  
+
+**Diagrama de Flujo:**  
+```  
+Inicio  
+  │  
+  ├─> Inicializar: RFID, Relay, LCD, Conexión Wi-Fi  
+  │  
+  └─> Bucle Infinito:  
+        │  
+        ├─> ¿Tarjeta RFID detectada? → Sí → Leer UID  
+        │   │                              │  
+        │   │                              ├─> ¿UID autorizado? → Sí → Abrir relay (habilitar dispositivo)  
+        │   │                              │       │  
+        │   │                              │       ├─> LCD: "Acceso permitido"  
+        │   │                              │       └─> Enviar UID + Hora a BD con hash SHA-256  
+        │   │                              │  
+        │   │                              └─> No → LCD: "Acceso denegado", Cerrar relay (bloquear)  
+        │   │  
+        │   └─> No → Mantener relay cerrado  
+        │  
+        └─> Fin Bucle  
+```  
+
+**Pseudocódigo:**  
+```python  
+Algoritmo Firewall_IoT:  
+  Inicializar:  
+    rfid.iniciar(), relay = 6, LCD.iniciar()  
+    UID_autorizados = ["A1B2C3D4", "X5Y6Z7W8"]  
+    servidor_BD = "https://bd-iot.com/log"  
+
+  Repetir para siempre:  
+    Si rfid.tarjetaPresente():  
+      uid = rfid.leerUID()  
+      Si uid en UID_autorizados:  
+        digitalWrite(relay, ABIERTO)  // Habilitar dispositivo  
+        LCD.mostrar("Acceso permitido")  
+        hash = SHA256(uid + hora_actual())  
+        enviarDatos(servidor_BD, hash)  
+      Sino:  
+        digitalWrite(relay, CERRADO)  // Bloquear dispositivo  
+        LCD.mostrar("Acceso denegado")  
+      Fin Si  
+      Esperar 3 segundos  
+    Fin Si  
+    Esperar 200 ms  
+  Fin Repetir  
+Fin Algoritmo  
+```  
+
+---
+
+### **Recomendaciones de Implementación:**  
+1. **Ciberseguridad Adicional:**  
+   - Usar **TLS/SSL** en comunicaciones Wi-Fi.  
+   - Almacenar claves/tokens en memoria **EEPROM encriptada**.  
+   - Actualizar firmware vía OTA con firma digital.  
+2. **Componentes Opcionales:**  
+   - Añadir sensor de huella dactilar para autenticación multifactor.  
+   - Integrar **detección de ataques de fuerza bruta** (bloqueo tras 3 intentos).  
+3. **Pruebas:**  
+   - Simular ataques con herramientas como **Wireshark** o **Kali Linux**.  
+
+### **Entregables:**  
+- Diagramas de flujo detallados.  
+- Pseudocódigo estructurado.  
+- Esquemático de conexiones Arduino.  
+- Documentación de medidas de ciberseguridad implementadas.  
