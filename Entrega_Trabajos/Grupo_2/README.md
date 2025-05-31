@@ -2,7 +2,7 @@
 Integrantes
 + Miguel Amaya
 + Andres Parrado
-+ Andres Berdugo
++ Felipe Berdugo
 
 Descripción amplia:
 
