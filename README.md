@@ -176,4 +176,22 @@ Fin Algoritmo
 - Diagramas de flujo detallados.  
 - Pseudocódigo estructurado.  
 - Esquemático de conexiones Arduino.  
-- Documentación de medidas de ciberseguridad implementadas.  
+- Documentación de medidas de ciberseguridad implementadas.
+
+---
+
+# Taller 4
+
+En grupo implementar en arduino placa física, alguna de las siguientes prácticas u otra de su preferencia.
+
+[Taller Real] **(https://codiziapp.com/introduccion-a-arduino/practicas/6-descripcion-ttp223)**
+
+* Subirlo en este repositorio en la carpeta **ENTREGA_CLASE** creando una carpeta por cada grupo y publicar en el README. Esta debe incluir.
+
+- Descripción funcional del circuito.
+- Campo de aplicación (incluir al menos dos situasiones de seguridad).
+- Simulación en thinkercad (indicar Link al proyecto).
+- Esquemático.
+- Plano.
+- Lista de componentes.
+* El circuito y su simulación se presentará al resto de la clase.
