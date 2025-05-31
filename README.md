@@ -186,12 +186,15 @@ En grupo implementar en arduino placa física, alguna de las siguientes práctic
 
 [Taller Real] **(https://codiziapp.com/introduccion-a-arduino/practicas/6-descripcion-ttp223)**
 
-* Subirlo en este repositorio en la carpeta **ENTREGA_CLASE** creando una carpeta por cada grupo y publicar en el README. Esta debe incluir.
+- **Subirlo en este repositorio en la carpeta **ENTREGA_CLASE** creando una carpeta por cada grupo y publicar en el README.**
 
-- Descripción funcional del circuito.
-- Campo de aplicación (incluir al menos dos situasiones de seguridad).
-- Simulación en thinkercad (indicar Link al proyecto).
-- Esquemático.
-- Plano.
-- Lista de componentes.
-* El circuito y su simulación se presentará al resto de la clase.
+Esta debe incluir.
+
+1.  Descripción funcional del circuito.
+2.  Campo de aplicación (incluir al menos dos situasiones de seguridad).
+2.  Simulación en thinkercad (indicar Link al proyecto).
+3.  Esquemático.
+4.  Plano.
+5.  Lista de componentes.
+
+- **El circuito y su simulación se presentará al resto de la clase.**
