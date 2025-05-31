@@ -47,3 +47,10 @@ A continuación, se presenta un listado de recursos gratuitos y de código abier
 - **Raspberry Pi**  
   Ordenador de placa única ampliamente usado en proyectos IoT y AIoT, compatible con múltiples lenguajes y plataformas.
 
+  - (https://thingsboard.io/)
+  - (https://nodered.org/)
+  - (https://flowfuse.com/)
+  - (https://thingspeak.mathworks.com/)
+  - (https://mqttx.app/)
+  - (https://www.xataka.com/basics/mejores-17-simuladores-arduino-para-pc)
+  - (https://www.youtube.com/watch?v=pC5W88NTJ1U)
