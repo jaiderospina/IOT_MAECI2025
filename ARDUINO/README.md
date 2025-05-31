@@ -19,4 +19,4 @@ Una **librería en Arduino** es un conjunto de código preescrito y organizado q
 [Referencia de apoyo] (https://lab.bricogeek.com/tutorial/como-instalar-nuevas-librerias-en-arduino-ide/introduccion)
 
 - **Como crear una librería.** 
-[Cómo crear una librería] (https://youtu.be/n97dPg-kKpM?si=wguaFgDceEqeKJN_)
+(https://youtu.be/n97dPg-kKpM?si=wguaFgDceEqeKJN_)
