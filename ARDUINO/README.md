@@ -52,4 +52,21 @@ Una **librería en Arduino** es un conjunto de código preescrito y organizado q
 
 ---
 
+# ARDUINO CLOUD
 
+Arduino Cloud, también conocida como Arduino IoT Cloud, es una plataforma en la nube diseñada para facilitar la creación, monitoreo y control de proyectos de Internet de las Cosas (IoT) utilizando placas Arduino y dispositivos compatibles, como ESP32 y ESP8266. Permite a los usuarios conectar sus dispositivos a Internet, recopilar y visualizar datos de sensores en tiempo real mediante paneles de control (dashboards) accesibles desde la web o aplicaciones móviles.
+
+Entre sus funciones principales destacan:
+
+- **Monitorización remota:** Puedes ver y analizar datos de sensores o estados de actuadores desde cualquier parte del mundo.
+- **Control de dispositivos:** Permite enviar comandos y automatizar acciones en tus dispositivos conectados.
+- **Sincronización de variables:** Facilita la comunicación entre varios dispositivos sin necesidad de programación compleja.
+- **Programación y actualizaciones OTA:** Puedes programar y actualizar tus dispositivos a distancia, sin necesidad de conexión física.
+- **Integraciones:** Soporta webhooks, integración con servicios como IFTTT y asistentes de voz como Amazon Alexa.
+- **Compatibilidad:** Funciona con placas Arduino (MKR, Nano, Nicla, Pro), así como con dispositivos basados en ESP8266 y ESP32.
+
+La plataforma es intuitiva y está orientada tanto a principiantes como a desarrolladores avanzados, ofreciendo planes gratuitos y de pago, además de una amplia documentación y soporte de la comunidad. Arduino Cloud democratiza el acceso a soluciones IoT, permitiendo a usuarios de todos los niveles crear proyectos conectados de manera sencilla y eficiente.
+
+- (https://docs.arduino.cc/arduino-cloud/iot-remote-app/getting-started/)
+- (https://iotcircuithub.com/smart-home-iot-project-arduino-cloud-esp32/)
+- (https://www.youtube.com/watch?v=p9t8DYOubjg)
