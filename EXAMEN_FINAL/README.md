@@ -48,8 +48,16 @@ Evaluar la comprensión y aplicación de los conceptos de IoT, automatización y
 
 ---
 
-**Nota:**  
+**Nota1:**  
 Se valorará especialmente la capacidad de resolver problemas, la documentación del proceso y la comprensión integral del flujo de datos y control en un entorno AIoT doméstico[1].
+
+**Nota2:**
+Se permite cualquier proyecto similar o variables sobre el propuesto.
+
+
+**Nota3:**
+Se trata de un ejercicio de diseño e inmersión. Por lo tanto, si se desea "simular" situaciones como la explosión de una planta nuclear, basta con conectar un condensador electrolítico en polaridad inversa.
+
 
 **Proyecto de referencia**
 ( https://iotcircuithub.com/smart-home-iot-project-arduino-cloud-esp32/)
