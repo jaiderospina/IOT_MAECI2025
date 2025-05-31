@@ -51,7 +51,5 @@ Una **librería en Arduino** es un conjunto de código preescrito y organizado q
 1.  **Documento de Librerías IoT (Parte 1):** Carpeta en el repositorios con la documentación de las 3 librerías IoT en carpeta de trabajos.
 
 ---
-***
 
-[![Ver el video en YouTube](https://img.youtube.com/vi/WMfsJGRkO1g/maxresdefault.jpg)](https://youtu.be/WMfsJGRkO1g)
 
