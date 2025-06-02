@@ -198,3 +198,7 @@ Esta debe incluir.
 5.  Lista de componentes.
 
 - **El circuito y su simulación se presentará al resto de la clase.**
+
+  ## REFERENCIAS.
+
+ - Curso AioT  (https://github.com/diegoperea20/iot-con-ia)
