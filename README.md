@@ -201,4 +201,5 @@ Esta debe incluir.
 
   ## REFERENCIAS.
 
- - Curso AioT  (https://github.com/diegoperea20/iot-con-ia)
+- **Curso AioT**  (https://github.com/diegoperea20/iot-con-ia)
+- **Buen material:** (https://github.com/ElCableAmarillo/Introduccion-a-Arduino)
