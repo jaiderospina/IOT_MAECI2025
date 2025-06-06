@@ -7,8 +7,11 @@
 *Integrantes:*
 
 *Andrés Camilo Molano*
+
 *Raúl Andrés Garay*
+
 *Enrique Ramírez Flor*
+
 *Oscar Vega Pulido*
 
 # Objetivo del proyecto
