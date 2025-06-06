@@ -67,4 +67,8 @@ Se trata de un ejercicio de diseño e inmersión. Por lo tanto, si se desea "sim
 # Ejemplos completos
 
 1. **Arduino IOT Cloud y ESP32 / Visualizar y Controlar Variables desde Internet** (https://www.youtube.com/watch?v=pC5W88NTJ1U)
-2. **Como crear una App IoT con IA & Vibe Coding (curso completo)** (https://youtu.be/CVcbvLD6H2c?si=QpU4I9ECnOHN8nLq)
+2. **Como crear una App IoT con IA & Vibe Coding (curso completo)** (https://youtu.be/CVcbvLD6H2c?si=QpU4I9ECnOHN8nLq) 
+3. **Publica y almacena datos por wifi en ThingSpeak con ArduinoBlocks. Solo 7 bloques!** (https://youtu.be/8DIZBGZ-Xt0?si=fmDkuAZ_L4XpoO4K)
+4. **Conexión Arduino-Grafica de Datos (thingspeak) #Python**  (https://youtu.be/jnxymlonp3Y?si=9rorEx7VWK8zPW7e)
+5. **Internet de las Cosas: Guía Completa para Proyectos IoT y Comunicación en la Nube**  (https://youtu.be/DnwFsyRXbwo?si=DPikvj2-8jGzx-Iq)
+
