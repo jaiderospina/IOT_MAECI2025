@@ -61,3 +61,10 @@ Se trata de un ejercicio de diseño e inmersión. Por lo tanto, si se desea "sim
 
 **Proyecto de referencia**
 ( https://iotcircuithub.com/smart-home-iot-project-arduino-cloud-esp32/)
+
+---
+
+# Ejemplos completos
+
+1. **Arduino IOT Cloud y ESP32 / Visualizar y Controlar Variables desde Internet** (https://www.youtube.com/watch?v=pC5W88NTJ1U)
+2. **Como crear una App IoT con IA & Vibe Coding (curso completo)** (https://youtu.be/CVcbvLD6H2c?si=QpU4I9ECnOHN8nLq)
